@@ -1,200 +1,251 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Chris Magistrado",
+    "label": "Cybersecurity SME, Founder, Investor",
+    "email": "chris@rsecglobal.com",
+    "url": "https://www.linkedin.com/in/cmagistrado",
+    "summary": "Cybersecurity expert with over 10 years in vulnerability research, now leading TopCleared Recruiting and hosting Hackers to Founders podcast.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "San Francisco, California",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Chris Magistrado",
+        "url": "https://www.linkedin.com/in/cmagistrado"
+      },
+      {
+        "network": "Website",
+        "username": "RedBlue Security",
+        "url": "https://redbluesecurity.com"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Hackers to Founders",
+      "position": "Founder & Host",
+      "startDate": "2024-08-01",
+      "summary": "Hosts interviews with cybersecurity professionals turned entrepreneurs, bridging cybersecurity and business innovation.",
+      "highlights": [
+        "Featured top-tier cybersecurity and tech talent",
+        "Engaged diverse audiences in cybersecurity trends and challenges"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "TopCleared Recruiting",
+      "position": "Founder & CEO",
+      "startDate": "2021-03-01",
+      "summary": "Recruiting agency for cleared cybersecurity and STEM professionals, focused on filling high-demand, mission-critical roles.",
+      "highlights": [
+        "Placed top talent in cybersecurity roles for government and private sectors",
+        "Specialization in TS/SCI + Full Scope Poly cleared positions"
+      ]
+    },
+    {
+      "name": "Capital Hire",
+      "position": "Angel Investor",
+      "startDate": "2023-08-01",
+      "summary": "Supports tech entrepreneurs through strategic advice and funding.",
+      "highlights": [
+        "Invested in early-stage cybersecurity ventures",
+        "Guided startups in cybersecurity and tech"
+      ]
+    },
+    {
+      "name": "RedBlue Security",
+      "position": "Partner",
+      "startDate": "2021-01-01",
+      "endDate": "2024-07-01",
+      "summary": "Cybersecurity recruiting firm specializing in technical roles across the cybersecurity industry.",
+      "highlights": [
+        "Placed talent in roles like Vulnerability Researcher, CNO Developer",
+        "Provided security solutions across Red and Blue Team Operations"
+      ]
+    },
+    {
+      "name": "SUN VALLEY HEALTH SERVICES",
+      "position": "Chief Information Technology Officer (Contract)",
+      "startDate": "2022-03-01",
+      "endDate": "2023-06-01",
+      "summary": "Led IT strategy, achieving 4x revenue growth and successful acquisition.",
+      "highlights": [
+        "Maintained HIPAA compliance with strong security measures",
+        "Implemented automated SMS and database integration for customer experience"
+      ]
+    },
+    {
+      "name": "Asimily",
+      "position": "Security Researcher",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Researched preventative solutions for malicious threats in medical devices.",
+      "highlights": [
+        "Generated proprietary network rules for vulnerability incidents",
+        "Promoted findings at medical conferences"
+      ]
+    },
+    {
+      "name": "Consultant",
+      "position": "Security Researcher",
+      "startDate": "2017-03-01",
+      "endDate": "2019-03-01",
+      "summary": "Led research teams to assess products for private clients.",
+      "highlights": [
+        "Developed cybersecurity assessments and solutions for client security",
+        "Managed cybersecurity testing and reporting for various applications"
+      ]
+    },
+    {
+      "name": "RiskIQ",
+      "position": "Security Analyst",
+      "startDate": "2014-05-01",
+      "endDate": "2015-02-01",
+      "summary": "Implemented RiskIQ solutions for threat intelligence and customer support.",
+      "highlights": [
+        "Developed workflows, documentation, and customer enablement",
+        "Delivered intelligence reports and researched emerging threats"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "San Francisco State University",
+      "location": "San Francisco, CA",
+      "url": "https://www.sfsu.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "2011-01-01",
+      "endDate": "2015-06-01"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Cybersecurity",
+      "keywords": ["Vulnerability Research", "Exploit Development", "CNO Operations", "Red Team Operations"]
+    },
+    {
+      "name": "Project Management",
+      "keywords": ["IT Strategy", "Team Leadership", "Client Relations"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Native or Bilingual"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Spanish",
+      "fluency": "Limited Working"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Limited Working"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Well-Architected Foundations",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Android Application Security Basics",
+      "issuer": "Google"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Place Winner",
+      "date": "2016-01-01",
+      "awarder": "Peerlyst Dark Web Hackathon",
+      "summary": "Awarded for top performance in Dark Web Hackathon hosted by Peerlyst."
+    },
+    {
+      "title": "Best Use of IBM BlueMix",
+      "date": "2017-01-01",
+      "awarder": "NASA SpaceApps Hackathon",
+      "summary": "Recognized for innovative application of IBM BlueMix in NASA's SpaceApps Challenge."
+    },
+    {
+      "title": "Winner of NuCypher's Sponsored Hackathon",
+      "date": "2018-01-01",
+      "awarder": "World Crypto Economic Forum",
+      "summary": "Secured victory at NuCypher-sponsored event for blockchain and crypto solutions."
+    }
+  ],
+  "publications": [
+    {
+      "name": "CryptoCurrencies: Are you in control of YOUR money?",
+      "summary": "Discusses the control and security aspects of cryptocurrency ownership and transactions."
+    },
+    {
+      "name": "Bitcoins are Here to Stay: Here's Why",
+      "summary": "An overview of the staying power of Bitcoin and the technology behind it."
+    },
+    {
+      "name": "Android Security Enhancements, Version by Version",
+      "releaseDate": "2024-10-06",
+      "summary": "Comprehensive overview of Android’s evolving security features, highlighting defense mechanisms against malware and exploits."
+    },
+    {
+      "name": "Bypassing ASLR: Damn Heroes and Their Defenses",
+      "releaseDate": "2023-03-23",
+      "summary": "Examines techniques for bypassing Address Space Layout Randomization (ASLR) in memory address protection."
+    },
+    {
+      "name": "Alter a String to Make It Un-Googleable",
+      "releaseDate": "2023-02-01",
+      "summary": "Techniques for creating search-resistant strings using unique character encodings."
+    },
+    {
+      "name": "Rekalling the Times I Played with Windows",
+      "releaseDate": "2022-11-01",
+      "summary": "Guide on RAM forensics using Rekall and Volatility to capture and analyze memory for valuable forensic artifacts."
+    },
+    {
+      "name": "Creating Yara Rules for Malware Detection",
+      "releaseDate": "2018-10-12",
+      "summary": "Guide on writing effective Yara rules for identifying and categorizing malware with advanced rule features."
+    },
+    {
+      "name": "Injecting a Running Process in Linux",
+      "releaseDate": "2017-11-07",
+      "summary": "Exploration of Linux process injection techniques using ptrace and signals for in-depth control of process behavior."
+    },
+    {
+      "name": "Cross-Site Request Forgery (CSRF)",
+      "releaseDate": "2017-11-14",
+      "summary": "Introductory guide on CSRF attacks, with practical examples using Burp Suite and OWASP's Mutillidae II."
+    },
+    {
+      "name": "Bypassing NX/DEP",
+      "releaseDate": "2017-11-14",
+      "summary": "Technical guide on bypassing memory protections like NX and DEP across major OS platforms."
+    },
+    {
+      "name": "Rare Candy Hack: How and Why MissingNo is Triggered in Pokemon Red/Blue",
+      "releaseDate": "2017-12-12",
+      "summary": "Analysis of the infamous MissingNo glitch in Pokémon games, explaining its mechanics and impact on gameplay."
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Cybersecurity",
+      "keywords": ["Vulnerability Research", "Exploit Development", "Red Team Operations", "Cyber Threat Intelligence"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Entrepreneurship",
+      "keywords": ["Startup Growth", "Angel Investing", "Business Development", "Networking"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Language Learning",
+      "keywords": ["Italian", "Spanish", "Japanese"]
     }
   ]
 }
