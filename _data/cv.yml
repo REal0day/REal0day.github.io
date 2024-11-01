@@ -1,127 +1,127 @@
-- title: General Information
+- title: "General Information"
   type: map
   contents:
-    - name: Full Name
-      value: Chris Magistrado
-    - name: Label
-      value: Cybersecurity SME, Founder, Investor
-    - name: Email
-      value: chris@rsecglobal.com
-    - name: LinkedIn
-      value: https://www.linkedin.com/in/cmagistrado
-    - name: Summary
-      value: Cybersecurity expert with over 10 years in vulnerability research, now leading TopCleared Recruiting and hosting Hackers to Founders podcast.
-    - name: Location
-      value: San Francisco, California, US
+    - name: "Full Name"
+      value: "Chris Magistrado"
+    - name: "Label"
+      value: "Cybersecurity SME, Founder, Investor"
+    - name: "Email"
+      value: "chris@rsecglobal.com"
+    - name: "LinkedIn"
+      value: "https://www.linkedin.com/in/cmagistrado"
+    - name: "Summary"
+      value: "Cybersecurity expert with over 10 years in vulnerability research, now leading TopCleared Recruiting and hosting Hackers to Founders podcast."
+    - name: "Location"
+      value: "San Francisco, California, US"
 
-- title: Education
+- title: "Education"
   type: time_table
   contents:
-    - title: Bachelor of Science (BS)
-      institution: San Francisco State University
-      year: 2011 - 2015
+    - title: "Bachelor of Science (BS)"
+      institution: "San Francisco State University"
+      year: "2011 - 2015"
       description:
-        - Major in Computer Science
-        - In-depth study and hands-on experience in cybersecurity and IT fundamentals.
+        - "Major in Computer Science"
+        - "In-depth study and hands-on experience in cybersecurity and IT fundamentals."
 
-- title: Experience
+- title: "Experience"
   type: time_table
   contents:
-    - title: Founder & Host
-      institution: Hackers to Founders
-      year: 2024 - Present
+    - title: "Founder & Host"
+      institution: "Hackers to Founders"
+      year: "2024 - Present"
       description:
-        - Hosts interviews with cybersecurity professionals turned entrepreneurs.
-        - Engages audiences in cybersecurity and business innovation.
-    - title: Founder & CEO
-      institution: TopCleared Recruiting
-      year: 2021 - Present
+        - "Hosts interviews with cybersecurity professionals turned entrepreneurs."
+        - "Engages audiences in cybersecurity and business innovation."
+    - title: "Founder & CEO"
+      institution: "TopCleared Recruiting"
+      year: "2021 - Present"
       description:
-        - Leads recruitment for cleared cybersecurity and STEM professionals.
-        - Specializes in TS/SCI + Full Scope Poly positions.
-    - title: Angel Investor
-      institution: Capital Hire
-      year: 2023 - Present
+        - "Leads recruitment for cleared cybersecurity and STEM professionals."
+        - "Specializes in TS/SCI + Full Scope Poly positions."
+    - title: "Angel Investor"
+      institution: "Capital Hire"
+      year: "2023 - Present"
       description:
-        - Supports tech entrepreneurs through funding and strategic advice.
-        - Focus on early-stage cybersecurity ventures.
-    - title: Partner
-      institution: RedBlue Security
-      year: 2021 - 2024
+        - "Supports tech entrepreneurs through funding and strategic advice."
+        - "Focus on early-stage cybersecurity ventures."
+    - title: "Partner"
+      institution: "RedBlue Security"
+      year: "2021 - 2024"
       description:
-        - Managed recruitment for technical cybersecurity roles.
-        - Specialized in Red and Blue Team Operations.
-    - title: Chief Information Technology Officer (Contract)
-      institution: SUN VALLEY HEALTH SERVICES
-      year: 2022 - 2023
+        - "Managed recruitment for technical cybersecurity roles."
+        - "Specialized in Red and Blue Team Operations."
+    - title: "Chief Information Technology Officer (Contract)"
+      institution: "SUN VALLEY HEALTH SERVICES"
+      year: "2022 - 2023"
       description:
-        - Achieved 4x revenue growth and maintained HIPAA compliance.
-        - Enhanced customer experience through automated SMS and database integration.
+        - "Achieved 4x revenue growth and maintained HIPAA compliance."
+        - "Enhanced customer experience through automated SMS and database integration."
 
-- title: Certifications
+- title: "Certifications"
   type: list
   contents:
-    - AWS Well-Architected Foundations, AWS
-    - Android Application Security Basics, Google
+    - "AWS Well-Architected Foundations, AWS"
+    - "Android Application Security Basics, Google"
 
-- title: Honors and Awards
+- title: "Honors and Awards"
   type: time_table
   contents:
-    - year: 2016
+    - year: "2016"
       items:
-        - 1st Place Winner, Peerlyst Dark Web Hackathon
-    - year: 2017
+        - "1st Place Winner, Peerlyst Dark Web Hackathon"
+    - year: "2017"
       items:
-        - Best Use of IBM BlueMix, NASA SpaceApps Hackathon
-    - year: 2018
+        - "Best Use of IBM BlueMix, NASA SpaceApps Hackathon"
+    - year: "2018"
       items:
-        - Winner, NuCypher's Sponsored Hackathon at World Crypto Economic Forum
+        - "Winner, NuCypher's Sponsored Hackathon at World Crypto Economic Forum"
 
-- title: Publications
+- title: "Publications"
   type: time_table
   contents:
-    - title: CryptoCurrencies: Are you in control of YOUR money?
-      summary: Discusses the control and security aspects of cryptocurrency ownership and transactions.
-    - title: Android Security Enhancements, Version by Version
-      releaseDate: 2024-10-06
-      summary: Overview of Android's evolving security features.
-    - title: Bypassing ASLR: Damn Heroes and Their Defenses
-      releaseDate: 2023-03-23
-      summary: Techniques for bypassing Address Space Layout Randomization.
-    - title: Alter a String to Make It Un-Googleable
-      releaseDate: 2023-02-01
-      summary: Techniques for creating search-resistant strings using character encodings.
+    - title: "CryptoCurrencies: Are you in control of YOUR money?"
+      summary: "Discusses the control and security aspects of cryptocurrency ownership and transactions."
+    - title: "Android Security Enhancements, Version by Version"
+      releaseDate: "2024-10-06"
+      summary: "Overview of Android's evolving security features."
+    - title: "Bypassing ASLR: Damn Heroes and Their Defenses"
+      releaseDate: "2023-03-23"
+      summary: "Techniques for bypassing Address Space Layout Randomization."
+    - title: "Alter a String to Make It Un-Googleable"
+      releaseDate: "2023-02-01"
+      summary: "Techniques for creating search-resistant strings using character encodings."
 
-- title: Skills
+- title: "Skills"
   type: list
   contents:
-    - Cybersecurity: Vulnerability Research, Exploit Development, CNO Operations, Red Team Operations
-    - Project Management: IT Strategy, Team Leadership, Client Relations
+    - "Cybersecurity: Vulnerability Research, Exploit Development, CNO Operations, Red Team Operations"
+    - "Project Management: IT Strategy, Team Leadership, Client Relations"
 
-- title: Languages
+- title: "Languages"
   type: list
   contents:
-    - English: Native or Bilingual
-    - Spanish: Limited Working
-    - Japanese: Elementary
-    - Italian: Limited Working
+    - "English: Native or Bilingual"
+    - "Spanish: Limited Working"
+    - "Japanese: Elementary"
+    - "Italian: Limited Working"
 
-- title: Interests
+- title: "Interests"
   type: nested_list
   contents:
-    - title: Cybersecurity
+    - title: "Cybersecurity"
       items:
-        - Vulnerability Research
-        - Exploit Development
-        - Red Team Operations
-        - Cyber Threat Intelligence
-    - title: Entrepreneurship
+        - "Vulnerability Research"
+        - "Exploit Development"
+        - "Red Team Operations"
+        - "Cyber Threat Intelligence"
+    - title: "Entrepreneurship"
       items:
-        - Startup Growth
-        - Angel Investing
-        - Business Development
-    - title: Language Learning
+        - "Startup Growth"
+        - "Angel Investing"
+        - "Business Development"
+    - title: "Language Learning"
       items:
-        - Italian
-        - Spanish
-        - Japanese
+        - "Italian"
+        - "Spanish"
+        - "Japanese"
