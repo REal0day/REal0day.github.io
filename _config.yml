@@ -8,7 +8,7 @@ middle_name:
 last_name: Magistrado
 email: chris@rsecglobal.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A skids' blog
+  I write about things
 footer_text: >
   None
 keywords: cybersecurity, hackers, hacking, information security, infosec, cyber, vulnerability research, security research, 0day, zero day, exploit
@@ -80,14 +80,14 @@ github_username: REal0day # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # 1010907 # Inspire HEP author ID
-instagram_id: # your instagram id
+instagram_id: AdventureGod # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: cmagistrado # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
+medium_username: REal0day # your Medium username
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -105,7 +105,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: https://TopClearedRecruiting.com # work page URL
 x_username: REal0day # your X handle
 youtube_id: HackersToFounders # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
