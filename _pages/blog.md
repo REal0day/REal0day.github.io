@@ -33,7 +33,16 @@ pagination:
     {% endfor %}
   </ul>
 </div>
-
+    <!-- Tags from _config.yml -->
+    {% if site.display_tags %}
+      {% for tag in site.display_tags %}
+        <li>
+          <a href="/blog/tag/{{ tag | slugify }}/">{{ tag }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
