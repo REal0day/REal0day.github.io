@@ -51,22 +51,22 @@ pagination:
       </li>
     {% endfor %}
   </ul>
+  
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+  {% endif %}
 
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
-    {% endif %}
+  {% for post in paginator.posts %}
+    <!-- Render post -->
+    <li>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.description }}</p>
+      <p>Posted on {{ post.date | date: '%B %d, %Y' }}</p>
+    </li>
+  {% endfor %}
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="current">{{ page }}</span>
-      {% else %}
-        <a href="{{ paginator.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-    {% endif %}
-  </div>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
 </div>
