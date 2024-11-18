@@ -22,6 +22,19 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
 
+
+<div class="tag-category-list">
+  <h2>Tags</h2>
+  <ul>
+    {% for tag in site.tags %}
+      <li>
+        <a href="/blog/tag/{{ tag[0] | slugify }}/">{{ tag[0] }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li class="post-item">
