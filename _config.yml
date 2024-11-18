@@ -139,6 +139,10 @@ lsi: false # produce an index for related posts
 # Pagination
 pagination:
   enabled: true
+  per_page: 5
+  sort_field: "date"
+  sort_reverse: true
+  permalink: "/blog/page/:num/"
 
 related_blog_posts:
   enabled: true
