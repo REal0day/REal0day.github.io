@@ -6,8 +6,8 @@ description: Tutorial I go through bypassing NX/DEP and the history of this secu
 tags: reverse engineering, pwn, x86, nx
 categories: blog
 ---
-# Bypassing NX/DEP
-![Ryoko vs Nagato](/assets/img/Ryoko_vs_Nagato.png "Ryoko vs Nagato")
+![Ryoko vs Nagato](/assets/img/Ryoko_vs_Nagato.png "Ryoko vs Nagato"){:class="featured-image"}
+
 Alright, SO! I've spent about 14hrs working on this tutorial with my Kali box, and kept getting different addresses for the dynamic libraries. Still haven't learned why this is, but I WILL find the solution for this.
 
 ---
@@ -26,11 +26,11 @@ Starting in 1961, the Burroughs 5000 had hardware support to prevent the entire 
 - [Tagged Architecture](https://en.wikipedia.org/wiki/Tagged_architecture)
 
 ---
-![B5000](/assets/img/b5000.png "B5000")
+![B5000](/assets/img/b5000.png "B5000"){:class="inline-image"}
 Executive space protection has also been incorporated into operating system design to prevent code injection. Here are a few operating systems and when they implemented NX into their OS':
 
 ### Linux:
-![linux](/assets/img/penguin.png "linux")
+![linux](/assets/img/penguin.png "linux"){:class="centered-image"}
 - Android 2.3 and later have NX pages by default.  
 - Some modern Linux distros don't enable "HIGHMEM64" (a way to increase the usable address space) by default, which is required for NX in 32-bit mode. This is because it causes boot failures on pre-Pentium Pro and Celeron M processors without NX support.  
 - Ubuntu has always had NX memory protection so long as there was hardware to support it as well. In a case where you don't have hardware to support it, Ubuntu's 32-bit kernels provide an approximation of the NX CPU feature via emulation.
