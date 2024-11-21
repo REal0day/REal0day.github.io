@@ -26,11 +26,11 @@ Starting in 1961, the Burroughs 5000 had hardware support to prevent the entire 
 - [Tagged Architecture](https://en.wikipedia.org/wiki/Tagged_architecture)
 
 ---
-![B5000](/assets/img/b5000.png "B5000"){:class="inline-image"}
+![B5000](/assets/img/b5000.png "B5000"){:class="featured-image"}
 Executive space protection has also been incorporated into operating system design to prevent code injection. Here are a few operating systems and when they implemented NX into their OS':
 
 ### Linux:
-![linux](/assets/img/penguin.png "linux"){:class="centered-image"}
+![linux](/assets/img/penguin.png "linux"){:class="featured-image"}
 - Android 2.3 and later have NX pages by default.  
 - Some modern Linux distros don't enable "HIGHMEM64" (a way to increase the usable address space) by default, which is required for NX in 32-bit mode. This is because it causes boot failures on pre-Pentium Pro and Celeron M processors without NX support.  
 - Ubuntu has always had NX memory protection so long as there was hardware to support it as well. In a case where you don't have hardware to support it, Ubuntu's 32-bit kernels provide an approximation of the NX CPU feature via emulation.
