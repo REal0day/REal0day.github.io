@@ -3,7 +3,7 @@ layout: post
 title: Bypassing NX/DEP
 date: 2017-10-02 21:28:16
 description: Tutorial I go through bypassing NX/DEP and the history of this security mechanism.
-tags: reverse engineering, pwn, x86, nx, hacking
+tags: reverse engineering pwn x86 nx hacking
 categories: blog
 ---
 ![Ryoko vs Nagato](/assets/img/Ryoko_vs_Nagato.png "Ryoko vs Nagato"){:class="featured-image"}

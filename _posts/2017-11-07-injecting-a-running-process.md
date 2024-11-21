@@ -3,7 +3,7 @@ layout: post
 title: Injecting a Running Process
 date: 2017-11-07 21:28:16
 description: Tutorial on how syscall that control processes work
-tags: reverse engineering, memory, hacking, injection
+tags: reverse engineering memory hacking injection
 categories: blog
 ---
 
