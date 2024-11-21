@@ -155,9 +155,10 @@ int inject_data(pid_t pid, unsigned char *src, void *dst, int len) {
     }
 
     return 0;
-}```
+}
+```
 
-Running the Injected Code
+## Running the Injected Code
 After the target process memory has been modified, we give control back to the program. Multiple ways exist to do this, but we will simply detach from the target process.
 
 ```c
