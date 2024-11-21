@@ -227,6 +227,9 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+
+
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -1089,6 +1092,16 @@ nav[data-toggle="toc"] {
   }
 }
 
+.featured-image {
+  width: 100%; /* Makes image scale responsively */
+  height: auto; /* Maintains aspect ratio */
+  max-width: 900px; /* Prevents it from being too large */
+  max-height: 400px; /* Adds a reasonable height limit */
+  object-fit: cover; /* Ensures the image looks cropped elegantly */
+  margin: 20px auto; /* Centers and adds spacing around it */
+  display: block;
+}
+
 .unloaded {
   display: none !important;
 }
@@ -1246,6 +1259,16 @@ ninja-keys::part(ninja-input-wrapper) {
   cursor: pointer;
 }
 
+/* Styles for Inline Images */
+.inline-image {
+  float: left; /* Align image to the left of the text */
+  margin-right: 15px; /* Add spacing to the right of the image */
+  margin-bottom: 15px; /* Add spacing below the image */
+  max-width: 40%; /* Scale image down relative to the container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
 @media (max-width: 575px) {
   .newsletter-form-input,
   .newsletter-form-button,
@@ -1258,7 +1281,29 @@ ninja-keys::part(ninja-input-wrapper) {
     margin-right: 20px;
     margin-left: 20px;
   }
+  .featured-image {
+    max-width: 100%; /* Ensure it fits smaller screens */
+    max-height: unset; /* Remove height limit for a better mobile look */
+    margin: 15px auto; /* Reduce spacing for smaller devices */
+  }
 }
+
+
+/* Centered Image Styles */
+.centered-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Optional: Add shadows for aesthetics */
+.featured-image,
+.inline-image,
+.centered-image {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
 
 // popover is used for annotation in bib.liquid
 .popover {
