@@ -1,3 +1,20 @@
+---
+layout: default
+permalink: /blog/
+title: blog
+nav: true
+nav_order: 1
+pagination:
+  enabled: true
+  collection: posts
+  per_page: 5
+  permalink: /page/:num/
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1
+    after: 3
+---
 
 <div class="post">
 
