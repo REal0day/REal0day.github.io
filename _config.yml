@@ -196,7 +196,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
+    permalink: /blog/:year/:title/
   projects:
     output: true
     permalink: /:collection/:title/
