@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bypassing ASLR - Damn Heroes and their defenses
+title: Bypassing ASLR Damn Heroes and their defenses
 date: 2023-03-23 21:28:16
 description: Tutorial on bypassing ASLR
 tags: memory hacking aslr reverse
