@@ -9,9 +9,9 @@ categories: blog
 
 ![Shield Hero](/assets/img/shield_hero.png "Shield Hero"){:class="featured-image"} Shield Hero
 Damn heroes and their defenses.
+---
 
 All of the tutorials we've done thus far have been done without randomizing memory locations. As we move towards younger code, we move towards code that has a few more security mechanisms in them. Not to worry, all mechanics can be broken, given enough time, and the time has come for us to break ASLR.
----
 
 ## History
 
