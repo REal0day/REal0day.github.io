@@ -8,7 +8,7 @@ pagination:
   enabled: true
   collection: posts
   per_page: 5
-  permalink: /page/:num/
+  permalink: /blog/page/:num/
   sort_field: date
   sort_reverse: true
   trail:
