@@ -14,16 +14,6 @@
     - name: "Location"
       value: "San Francisco, California, US"
 
-- title: "Education"
-  type: time_table
-  contents:
-    - title: "Bachelor of Science (BS)"
-      institution: "San Francisco State University"
-      year: "2011 - 2015"
-      description:
-        - "Major in Computer Science"
-        - "In-depth study and hands-on experience in cybersecurity and IT fundamentals."
-
 - title: "Experience"
   type: time_table
   contents:
@@ -102,9 +92,9 @@
   type: list
   contents:
     - "English: Native or Bilingual"
-    - "Spanish: Limited Working"
+    - "Spanish: Intermediate"
     - "Japanese: Elementary"
-    - "Italian: Limited Working"
+    - "Italian: Intermediate"
 
 - title: "Interests"
   type: nested_list
