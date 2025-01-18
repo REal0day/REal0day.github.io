@@ -130,6 +130,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
     end
   end
 
+  
   def download_fonts_from_css(config, url, dest, lib_name, file_types)
     # only try to download the file if url doesn't start with | for security reasons
     if url.start_with?('|')
