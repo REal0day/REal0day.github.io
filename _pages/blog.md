@@ -44,6 +44,7 @@ nav_order: 1
     </div>
   {% endif %}
 
+
   <ul class="post-list">
     {% assign postlist = paginator.posts %}
     {% for post in site.posts %}
